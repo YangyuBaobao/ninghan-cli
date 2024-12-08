@@ -18,6 +18,5 @@
   },
   "scripts": {
     "test": "node ./__tests__/@ninghan-cli/core.test.js"
-  },
-  "gitHead": "2692be770359f0ce03c2838677f1ba3357e3cf85"
+  }
 }
